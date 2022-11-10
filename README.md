@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/78882871/201179718-ac1a897d-dc26-4156-a5f3-b2661e996d84.png)
 
-Link do dashboard: https://app.powerbi.com/reportEmbed?reportId=09d59bf5-389c-4bb5-9dce-8f86dcada883&autoAuth=true&ctid=1dc9b339-fadb-432e-86df-423c38a0fcb8
-
 
 ### Estudo de caso
 
@@ -34,3 +32,5 @@ Ela tem um Petshop chamado Alura Pets e também possui duas grandes marcas, que 
 → Produtos no GoogleSheet;
 
 → Vendas de faturamento dos anos 2018, 2019 e 2020 em planilhas.
+
+Link do dashboard: https://app.powerbi.com/reportEmbed?reportId=09d59bf5-389c-4bb5-9dce-8f86dcada883&autoAuth=true&ctid=1dc9b339-fadb-432e-86df-423c38a0fcb8
